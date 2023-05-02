@@ -11,7 +11,17 @@
 ### [Discussion](https://github.com/vuejs/core/discussions/5934)
 
 
-###  2. 
+###  2. How apply all slot to children?
 
+![](./image/Snipaste_2023-05-02_20-20-30.png)
+
+### [Discussion](https://github.com/vuejs/core/discussions/5962)
+
+
+###  3. How to extend component options type definition?
+
+![](./image/Snipaste_2023-05-02_20-22-36.png)
+
+### [Discussion](https://github.com/vuejs/core/discussions/5951)
 
 ## TODO
