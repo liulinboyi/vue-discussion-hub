@@ -28,6 +28,9 @@ for(let n of indexData) {
 
 }
 
+originString = originString.concat(`## TODO 
+UPDATE IMAGE & UPDATE LIST`)
+
 console.log(originString)
 
 fs.writeFileSync(path.resolve(__dirname, "../README_TARGET.md"), originString)
