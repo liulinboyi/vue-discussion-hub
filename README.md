@@ -36,4 +36,10 @@
 
 ### [Discussion](https://github.com/vuejs/core/discussions/6051)
 
+###  6. how to use proxyed assets in css url ?
+
+![](./image/Snipaste_2023-05-02_20-32-17.png)
+
+### [Discussion](https://github.com/vuejs/core/discussions/6104)
+
 ## TODO
