@@ -9,9 +9,16 @@ let originString = origin.toString()
 
 let index = 0
 for(let n of indexData) {
-    originString = originString.concat(`###  ${index}. ${n.title}
+    const matched = n.href.match(/\/.*\/(.*)/)
+    let imagePath = ''
+    if (matched) {
+        if (fs.existsSync(path.resolve(__dirname, `../image/${matched[1]}.png`))) {
+            imagePath = `./image/${matched[1]}.png`
+        }
+    }
+    originString = originString.concat(`###  \`${index}. ${n.title}\`
 
-![]()
+![](${imagePath ? imagePath : ''})
     
 ### [Discussion](${n.href})
 
