@@ -3,10 +3,9 @@
 ## If you have any questions about Vue3 to discuss,you can find in the follow,if you can't find it, you can discuss in the [Vue Discussions](https://github.com/vuejs/core/discussions)
 
 ---
-
 ###  0. How import a component defined by setup?
 
-![](./image/5934.png)
+![]()
     
 ### [Discussion](https://github.com/vuejs/core/discussions/5934)
 
@@ -153,35 +152,35 @@
 
 ###  21. how to use proxyed assets in css url ?
 
-![](./image/6104.png)
+![]()
     
 ### [Discussion](https://github.com/vuejs/core/discussions/6104)
 
 
 ###  22. Simple Date.now() computed not working properly
 
-![](./image/6051.png)
+![]()
     
 ### [Discussion](https://github.com/vuejs/core/discussions/6051)
 
 
 ###  23. Global component doesn't work with emit value passing via child component ?
 
-![](./image/6091.png)
+![]()
     
 ### [Discussion](https://github.com/vuejs/core/discussions/6091)
 
 
 ###  24. How to extend component options type definition?
 
-![](./image/5951.png)
+![]()
     
 ### [Discussion](https://github.com/vuejs/core/discussions/5951)
 
 
 ###  25. How apply all slot to children?
 
-![](./image/5962.png)
+![]()
     
 ### [Discussion](https://github.com/vuejs/core/discussions/5962)
 
@@ -886,4 +885,3 @@
 ### [Discussion](https://github.com/vuejs/core/discussions/7793)
 
 
-## TODO

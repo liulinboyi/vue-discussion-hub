@@ -1,0 +1,632 @@
+[
+    {
+        "title": "How import a component defined by setup?",
+        "href": "https://github.com/vuejs/core/discussions/5934",
+        "index": 0
+    },
+    {
+        "title": "请教一个关于数据转换的问题",
+        "href": "https://github.com/vuejs/core/discussions/6662",
+        "index": 1
+    },
+    {
+        "title": "Custom Element don't receive props when using SFC",
+        "href": "https://github.com/vuejs/core/discussions/6619",
+        "index": 2
+    },
+    {
+        "title": "多个相同子组件的情况下，如何在子组件中知道自己的index或key",
+        "href": "https://github.com/vuejs/core/discussions/6488",
+        "index": 3
+    },
+    {
+        "title": "Why does this component emit event in Vue3 ??",
+        "href": "https://github.com/vuejs/core/discussions/6585",
+        "index": 4
+    },
+    {
+        "title": "Conflicts of custom elements' named slot (defineCustomElement)",
+        "href": "https://github.com/vuejs/core/discussions/6574",
+        "index": 5
+    },
+    {
+        "title": "use watch in for {} will destory when the component unmount?",
+        "href": "https://github.com/vuejs/core/discussions/6583",
+        "index": 6
+    },
+    {
+        "title": "Is it possible to add directive to all matching elements automatically?",
+        "href": "https://github.com/vuejs/core/discussions/6579",
+        "index": 7
+    },
+    {
+        "title": "How can i know if Parent component pass a function to Child component",
+        "href": "https://github.com/vuejs/core/discussions/6481",
+        "index": 8
+    },
+    {
+        "title": "v-if rerender input bug in production, works fine in dev",
+        "href": "https://github.com/vuejs/core/discussions/6452",
+        "index": 9
+    },
+    {
+        "title": "file input @change do not trigger function again",
+        "href": "https://github.com/vuejs/core/discussions/6440",
+        "index": 10
+    },
+    {
+        "title": "Not able to recursive pass scopedSlots in recursive component.",
+        "href": "https://github.com/vuejs/core/discussions/6445",
+        "index": 11
+    },
+    {
+        "title": "Why \"before\" and \"after\" attributes are discarded?",
+        "href": "https://github.com/vuejs/core/discussions/6408",
+        "index": 12
+    },
+    {
+        "title": "I need help, they say v-html is not safe, but how would I render posts from database?",
+        "href": "https://github.com/vuejs/core/discussions/6386",
+        "index": 13
+    },
+    {
+        "title": "Problems using v-bind in CSS",
+        "href": "https://github.com/vuejs/core/discussions/6353",
+        "index": 14
+    },
+    {
+        "title": "why inject() must be called synchronously ?",
+        "href": "https://github.com/vuejs/core/discussions/6276",
+        "index": 15
+    },
+    {
+        "title": "在script setup中，子组件怎么抛出一个ref给父组件调用自己的子组件的方法？",
+        "href": "https://github.com/vuejs/core/discussions/6251",
+        "index": 16
+    },
+    {
+        "title": "vue3 how to get components uid",
+        "href": "https://github.com/vuejs/core/discussions/6217",
+        "index": 17
+    },
+    {
+        "title": "A weird typescript problem, anyone help?",
+        "href": "https://github.com/vuejs/core/discussions/6145",
+        "index": 18
+    },
+    {
+        "title": "Strange behavior with watch and watchEffect",
+        "href": "https://github.com/vuejs/core/discussions/6176",
+        "index": 19
+    },
+    {
+        "title": "How to get the EmitsType of components in TypeScript ?",
+        "href": "https://github.com/vuejs/core/discussions/6116",
+        "index": 20
+    },
+    {
+        "title": "how to use proxyed assets in css url ?",
+        "href": "https://github.com/vuejs/core/discussions/6104",
+        "index": 21
+    },
+    {
+        "title": "Simple Date.now() computed not working properly",
+        "href": "https://github.com/vuejs/core/discussions/6051",
+        "index": 22
+    },
+    {
+        "title": "Global component doesn't work with emit value passing via child component ?",
+        "href": "https://github.com/vuejs/core/discussions/6091",
+        "index": 23
+    },
+    {
+        "title": "How to extend component options type definition?",
+        "href": "https://github.com/vuejs/core/discussions/5951",
+        "index": 24
+    },
+    {
+        "title": "How apply all slot to children?",
+        "href": "https://github.com/vuejs/core/discussions/5962",
+        "index": 25
+    },
+    {
+        "title": "The child component reported an error when a parent-child parameter was passed in the request Cannot read properties of undefined",
+        "href": "https://github.com/vuejs/core/discussions/7146",
+        "index": 26
+    },
+    {
+        "title": "在Vue3 + Vite项目，将vnode渲染到dom上，开发环境和生产环境表现不一致？",
+        "href": "https://github.com/vuejs/core/discussions/6627",
+        "index": 27
+    },
+    {
+        "title": "v-model not updating from external changes? Is this a bug?",
+        "href": "https://github.com/vuejs/core/discussions/7120",
+        "index": 28
+    },
+    {
+        "title": "vue3 引入富文本组件vueup/vue-quill，本地运行没问题，部署到线上报错：TypeError: Cannot read properties of null (reading 'refs')",
+        "href": "https://github.com/vuejs/core/discussions/7100",
+        "index": 29
+    },
+    {
+        "title": "Advise on creating a Vue 2 / Vue 3 compatible component library",
+        "href": "https://github.com/vuejs/core/discussions/7055",
+        "index": 30
+    },
+    {
+        "title": "How to pass attrs to built-in component by the slot?",
+        "href": "https://github.com/vuejs/core/discussions/7053",
+        "index": 31
+    },
+    {
+        "title": "vue教程里的暴露是什么意思？",
+        "href": "https://github.com/vuejs/core/discussions/7029",
+        "index": 32
+    },
+    {
+        "title": "What is the best way to structure a component with the new Vue 3 script setup?",
+        "href": "https://github.com/vuejs/core/discussions/6911",
+        "index": 33
+    },
+    {
+        "title": "how to pass down all things(props, slots, listeners ...) to child component ? 怎样把所有的props、slots、listeners 传给子组件？",
+        "href": "https://github.com/vuejs/core/discussions/7001",
+        "index": 34
+    },
+    {
+        "title": "Variable behavior",
+        "href": "https://github.com/vuejs/core/discussions/6866",
+        "index": 35
+    },
+    {
+        "title": "can component with \"is\" change it's value?",
+        "href": "https://github.com/vuejs/core/discussions/6981",
+        "index": 36
+    },
+    {
+        "title": "Err missing module postcss-url && null(setting 'peer')",
+        "href": "https://github.com/vuejs/core/discussions/6942",
+        "index": 37
+    },
+    {
+        "title": "Exporting nodeOps and patchProp from runtime-dom package",
+        "href": "https://github.com/vuejs/core/discussions/6907",
+        "index": 38
+    },
+    {
+        "title": ":deep()无法穿透element子元素",
+        "href": "https://github.com/vuejs/core/discussions/6871",
+        "index": 39
+    },
+    {
+        "title": "Is there a way to break/return from Vue3 <script setup>?",
+        "href": "https://github.com/vuejs/core/discussions/6862",
+        "index": 40
+    },
+    {
+        "title": "如何减少重复代码，以面向对象方式开发？",
+        "href": "https://github.com/vuejs/core/discussions/6837",
+        "index": 41
+    },
+    {
+        "title": "How to programmatically register components in script setup?",
+        "href": "https://github.com/vuejs/core/discussions/6780",
+        "index": 42
+    },
+    {
+        "title": "How to forward all child component methods to parent component?",
+        "href": "https://github.com/vuejs/core/discussions/6753",
+        "index": 43
+    },
+    {
+        "title": "When I build the project and open it with Live Server.The browser console output the error of Cannot read properties of undefined (reading 'defineComponent')",
+        "href": "https://github.com/vuejs/core/discussions/6750",
+        "index": 44
+    },
+    {
+        "title": "Selected attribute being removed from <option> in <select> element",
+        "href": "https://github.com/vuejs/core/discussions/6701",
+        "index": 45
+    },
+    {
+        "title": "different behavior in development vs production build",
+        "href": "https://github.com/vuejs/core/discussions/6717",
+        "index": 46
+    },
+    {
+        "title": "how can I expose all events of child input?",
+        "href": "https://github.com/vuejs/core/discussions/6719",
+        "index": 47
+    },
+    {
+        "title": "Why Slot props undefined when wrapped around v-if ?",
+        "href": "https://github.com/vuejs/core/discussions/6694",
+        "index": 48
+    },
+    {
+        "title": "<details> tag @toggle triggers when :open changes",
+        "href": "https://github.com/vuejs/core/discussions/6696",
+        "index": 49
+    },
+    {
+        "title": "Html页面元素的ref属性，怎么设置成某个对象的属性？",
+        "href": "https://github.com/vuejs/core/discussions/6679",
+        "index": 50
+    },
+    {
+        "title": "Use inject/provide in functionnal components",
+        "href": "https://github.com/vuejs/core/discussions/7521",
+        "index": 51
+    },
+    {
+        "title": "why does the function excute twice in child component?",
+        "href": "https://github.com/vuejs/core/discussions/7527",
+        "index": 52
+    },
+    {
+        "title": "Why doesn't :deep work in <style module>?",
+        "href": "https://github.com/vuejs/core/discussions/7524",
+        "index": 53
+    },
+    {
+        "title": "Unable to use ref on component!",
+        "href": "https://github.com/vuejs/core/discussions/7508",
+        "index": 54
+    },
+    {
+        "title": "在什么场景下组件用 h 函数 或者 jsx #3931",
+        "href": "https://github.com/vuejs/core/discussions/6945",
+        "index": 55
+    },
+    {
+        "title": "Is it possible to convert an import component to html in a .vue file?",
+        "href": "https://github.com/vuejs/core/discussions/7454",
+        "index": 56
+    },
+    {
+        "title": "Should I use shallowRef instead of ref in template references?",
+        "href": "https://github.com/vuejs/core/discussions/7452",
+        "index": 57
+    },
+    {
+        "title": "why table elements are nonStringifiable?",
+        "href": "https://github.com/vuejs/core/discussions/7407",
+        "index": 58
+    },
+    {
+        "title": "How to use <suspense></suspense> with <components :is=xxx> ?",
+        "href": "https://github.com/vuejs/core/discussions/7411",
+        "index": 59
+    },
+    {
+        "title": "How to change property value only when transition completed?",
+        "href": "https://github.com/vuejs/core/discussions/7415",
+        "index": 60
+    },
+    {
+        "title": "在globalProperties上挂载的响应式属性，在template中必须使用.value获取",
+        "href": "https://github.com/vuejs/core/discussions/7405",
+        "index": 61
+    },
+    {
+        "title": "A component is mounted using render(), and when the parent component's value changes, the child component does not change.",
+        "href": "https://github.com/vuejs/core/discussions/7396",
+        "index": 62
+    },
+    {
+        "title": "Problem with understanding of documentation regarding reactive object and watchEffect (featuring playground)",
+        "href": "https://github.com/vuejs/core/discussions/7375",
+        "index": 63
+    },
+    {
+        "title": "refs are not automatically unwrapping in templates.",
+        "href": "https://github.com/vuejs/core/discussions/7386",
+        "index": 64
+    },
+    {
+        "title": "Error on Suspense + render function + prop change while awaiting for render",
+        "href": "https://github.com/vuejs/core/discussions/7202",
+        "index": 65
+    },
+    {
+        "title": "Property 'cause' does not exist on type 'Error'",
+        "href": "https://github.com/vuejs/core/discussions/7263",
+        "index": 66
+    },
+    {
+        "title": "watching route doesn't fire with composition api",
+        "href": "https://github.com/vuejs/core/discussions/7239",
+        "index": 67
+    },
+    {
+        "title": "Vue3 + typescript (vue-cli-service): How to create Vue NPM library?",
+        "href": "https://github.com/vuejs/core/discussions/7222",
+        "index": 68
+    },
+    {
+        "title": "How to get ref of an element behind v-if",
+        "href": "https://github.com/vuejs/core/discussions/6127",
+        "index": 69
+    },
+    {
+        "title": "Test failed in Windows",
+        "href": "https://github.com/vuejs/core/discussions/7209",
+        "index": 70
+    },
+    {
+        "title": "When does vue need to set the dry parameter when running the release",
+        "href": "https://github.com/vuejs/core/discussions/7191",
+        "index": 71
+    },
+    {
+        "title": "Are watchers declared in methods and onMouned auto destroyed?",
+        "href": "https://github.com/vuejs/core/discussions/7189",
+        "index": 72
+    },
+    {
+        "title": "请问有谁知道vue官网有关文档使用工具生成的还是每个都是单独写的？",
+        "href": "https://github.com/vuejs/core/discussions/7183",
+        "index": 73
+    },
+    {
+        "title": "type error when I custom css to my button",
+        "href": "https://github.com/vuejs/core/discussions/7182",
+        "index": 74
+    },
+    {
+        "title": "对UI库（element Plus）的组件进行二次封装时，v-model 与 透传 出现的问题",
+        "href": "https://github.com/vuejs/core/discussions/7159",
+        "index": 75
+    },
+    {
+        "title": "computed property inside reactive typescript error",
+        "href": "https://github.com/vuejs/core/discussions/7791",
+        "index": 76
+    },
+    {
+        "title": "this different behavior about app mount to target container on vue2 and vue3",
+        "href": "https://github.com/vuejs/core/discussions/7772",
+        "index": 77
+    },
+    {
+        "title": "Why onTrigger watcher options only work in development mode?",
+        "href": "https://github.com/vuejs/core/discussions/7739",
+        "index": 78
+    },
+    {
+        "title": "Using useCssModule return value in <style module>",
+        "href": "https://github.com/vuejs/core/discussions/7732",
+        "index": 79
+    },
+    {
+        "title": "Error involving changing rendered list of items (Unhandled error during execution of scheduler flush)",
+        "href": "https://github.com/vuejs/core/discussions/7740",
+        "index": 80
+    },
+    {
+        "title": "求教：非构建创建组件时，如何使用 ID 选择器来指向一个元素，使用其内容作为模板来源？",
+        "href": "https://github.com/vuejs/core/discussions/7705",
+        "index": 81
+    },
+    {
+        "title": "I need help, yarn dev works really fine but yarn build has so many errors",
+        "href": "https://github.com/vuejs/core/discussions/7701",
+        "index": 82
+    },
+    {
+        "title": "setup语法糖的组件import后没有类型提示",
+        "href": "https://github.com/vuejs/core/discussions/6377",
+        "index": 83
+    },
+    {
+        "title": "How to set a props type with InputHTMLAttributes?",
+        "href": "https://github.com/vuejs/core/discussions/7546",
+        "index": 84
+    },
+    {
+        "title": "\"[Vue warn]: Missing required prop\" but default value is defined",
+        "href": "https://github.com/vuejs/core/discussions/7651",
+        "index": 85
+    },
+    {
+        "title": "how use toRef with Map?",
+        "href": "https://github.com/vuejs/core/discussions/7647",
+        "index": 86
+    },
+    {
+        "title": "Can't use props in event binding",
+        "href": "https://github.com/vuejs/core/discussions/7636",
+        "index": 87
+    },
+    {
+        "title": "同一个项目多个vue3.x版本共存时，是否会出现问题？",
+        "href": "https://github.com/vuejs/core/discussions/7621",
+        "index": 88
+    },
+    {
+        "title": "Failed to resolve component: Sku",
+        "href": "https://github.com/vuejs/core/discussions/7596",
+        "index": 89
+    },
+    {
+        "title": "How can i use Spread syntax with script setup",
+        "href": "https://github.com/vuejs/core/discussions/7592",
+        "index": 90
+    },
+    {
+        "title": "Is there any existing collections of composables for developer usage?",
+        "href": "https://github.com/vuejs/core/discussions/7591",
+        "index": 91
+    },
+    {
+        "title": "@keydown 按键事件问题",
+        "href": "https://github.com/vuejs/core/discussions/7577",
+        "index": 92
+    },
+    {
+        "title": "How can I use $emit correctly?",
+        "href": "https://github.com/vuejs/core/discussions/7571",
+        "index": 93
+    },
+    {
+        "title": "Select tag shows nothing selected when v-model variable has a value",
+        "href": "https://github.com/vuejs/core/discussions/7565",
+        "index": 94
+    },
+    {
+        "title": "Component error with types from *.d.ts files.",
+        "href": "https://github.com/vuejs/core/discussions/7483",
+        "index": 95
+    },
+    {
+        "title": "how to define the return value type of app.mount()",
+        "href": "https://github.com/vuejs/core/discussions/7493",
+        "index": 96
+    },
+    {
+        "title": "Trying to call two functions with @click",
+        "href": "https://github.com/vuejs/core/discussions/7504",
+        "index": 97
+    },
+    {
+        "title": "How to access unique component ID",
+        "href": "https://github.com/vuejs/core/discussions/7549",
+        "index": 98
+    },
+    {
+        "title": "Unhandled error during execution of scheduler flush",
+        "href": "https://github.com/vuejs/core/discussions/7539",
+        "index": 99
+    },
+    {
+        "title": "Defining props inside composables",
+        "href": "https://github.com/vuejs/core/discussions/7463",
+        "index": 100
+    },
+    {
+        "title": "What could be reason the file upload feature of component isn't working?",
+        "href": "https://github.com/vuejs/core/discussions/8192",
+        "index": 101
+    },
+    {
+        "title": "Is there any property on components to determine whether they're nested inside KeepAlive?",
+        "href": "https://github.com/vuejs/core/discussions/8162",
+        "index": 102
+    },
+    {
+        "title": "Generic Components",
+        "href": "https://github.com/vuejs/core/discussions/8165",
+        "index": 103
+    },
+    {
+        "title": "如何在普通js文件中获取vue3实例",
+        "href": "https://github.com/vuejs/core/discussions/7945",
+        "index": 104
+    },
+    {
+        "title": "在自定义指令中，怎么覆盖添加在组件上的事件监听方法？",
+        "href": "https://github.com/vuejs/core/discussions/8145",
+        "index": 105
+    },
+    {
+        "title": "Strange typing for v-for",
+        "href": "https://github.com/vuejs/core/discussions/8128",
+        "index": 106
+    },
+    {
+        "title": "How to refresh the component",
+        "href": "https://github.com/vuejs/core/discussions/8098",
+        "index": 107
+    },
+    {
+        "title": "请问在vue3中该如何在子组件中判断emit注册的方法父组件是否传入呢？",
+        "href": "https://github.com/vuejs/core/discussions/8092",
+        "index": 108
+    },
+    {
+        "title": "无法双向绑定",
+        "href": "https://github.com/vuejs/core/discussions/8081",
+        "index": 109
+    },
+    {
+        "title": "Get width of slot from useSlot()",
+        "href": "https://github.com/vuejs/core/discussions/6726",
+        "index": 110
+    },
+    {
+        "title": "Vue3 vite build shows blank page - please help",
+        "href": "https://github.com/vuejs/core/discussions/8064",
+        "index": 111
+    },
+    {
+        "title": "官方说明文档的描述有点很奇怪，是不是错了？（我理解不对？）",
+        "href": "https://github.com/vuejs/core/discussions/8037",
+        "index": 112
+    },
+    {
+        "title": "❓ What is correct way to get parent",
+        "href": "https://github.com/vuejs/core/discussions/7990",
+        "index": 113
+    },
+    {
+        "title": "When would Vue 3's end of life be?",
+        "href": "https://github.com/vuejs/core/discussions/7887",
+        "index": 114
+    },
+    {
+        "title": "request in setup block",
+        "href": "https://github.com/vuejs/core/discussions/7950",
+        "index": 115
+    },
+    {
+        "title": "SSR+CSR 基于动态路由",
+        "href": "https://github.com/vuejs/core/discussions/7885",
+        "index": 116
+    },
+    {
+        "title": "Using v-model with @vue/compat and configureCompat in Composition API",
+        "href": "https://github.com/vuejs/core/discussions/7862",
+        "index": 117
+    },
+    {
+        "title": "An interesting question about setup syntax sugar(一个关于setup语法糖的有意思的问题)",
+        "href": "https://github.com/vuejs/core/discussions/7845",
+        "index": 118
+    },
+    {
+        "title": "Passing component name to createElement doesn't compile component",
+        "href": "https://github.com/vuejs/core/discussions/7838",
+        "index": 119
+    },
+    {
+        "title": "Find components to be resolved after navigation in beforeEach (ex-getMatchedComponents)",
+        "href": "https://github.com/vuejs/core/discussions/7230",
+        "index": 120
+    },
+    {
+        "title": "Is there a way to keep reactive object up to date with the original one?",
+        "href": "https://github.com/vuejs/core/discussions/7811",
+        "index": 121
+    },
+    {
+        "title": "Unclear watchEffect example in the docs",
+        "href": "https://github.com/vuejs/core/discussions/7796",
+        "index": 122
+    },
+    {
+        "title": "How can we get compiled template work without .value",
+        "href": "https://github.com/vuejs/core/discussions/7758",
+        "index": 123
+    },
+    {
+        "title": "How to use render function in <script setup>?",
+        "href": "https://github.com/vuejs/core/discussions/6629",
+        "index": 124
+    },
+    {
+        "title": "vue3中input的value和绑定的ref存在不同的问题",
+        "href": "https://github.com/vuejs/core/discussions/7793",
+        "index": 125
+    }
+]
