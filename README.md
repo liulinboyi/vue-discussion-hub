@@ -24,4 +24,10 @@
 
 ### [Discussion](https://github.com/vuejs/core/discussions/5951)
 
+###  4.Global component doesn't work with emit value passing via child component ?
+
+![](./image/Snipaste_2023-05-02_20-25-44.png)
+
+### [Discussion](https://github.com/vuejs/core/discussions/6091)
+
 ## TODO
