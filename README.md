@@ -3,6 +3,8 @@
 ## If you have any questions about Vue3 to discuss,you can find in the follow,if you can't find it, you can discuss in the [Vue Discussions](https://github.com/vuejs/core/discussions)
 
 ---
+UPDATE TIME: 2023/5/2 21:21:34
+
 ###  `0. How import a component defined by setup?`
 
 ![](./image/5934.png)

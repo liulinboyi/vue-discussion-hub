@@ -8,6 +8,11 @@ const origin = fs.readFileSync(path.resolve(__dirname, '../HEAD.md'))
 let originString = origin.toString()
 
 let index = 0
+
+originString = originString.concat(`UPDATE TIME: ${new Date().toLocaleString()}
+
+`)
+
 for(let n of indexData) {
     const matched = n.href.match(/\/.*\/(.*)/)
     let imagePath = ''
